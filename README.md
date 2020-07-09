@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 
+
+
+- ❤️ I'm a Front-End Engineer
+- 🔭 I’m currently working on Guangzhou China🇨🇳
+- 🌱 I’m currently learning `Typescript` `Java`
+- 📚 My blog：[HK Talk](https://blog.hhking.cn/)
+- 📫 How to reach me: huhhking@gmail.com
+
 
 <!--
 **hhking/hhking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
